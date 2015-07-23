@@ -1,0 +1,3 @@
+<?php
+// Directory for images like banner, icon ...
+// Nothing to see here
